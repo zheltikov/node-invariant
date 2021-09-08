@@ -1,6 +1,6 @@
 {
   "name": "@zheltikov/node-invariant",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Yet another assertion library.",
   "main": "src/functions.mjs",
   "type": "module",
